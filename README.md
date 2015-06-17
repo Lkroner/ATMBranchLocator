@@ -14,6 +14,7 @@ In command line:
 1. Clone to local from:
 2. *Npm install* in root folder.
 3. *Node app.js* in root folder.
+4. Navigate to http://localhost:3000 in **Safari** browser, to avoid Cross-Domain error.
 
 ##MVP##
 ============
@@ -37,6 +38,7 @@ In command line:
 ============
 
 http://stackoverflow.com/questions/14061644/jquery-ajax-post-request-with-node-js-and-express
+https://developers.google.com/maps/documentation/javascript/tutorial
 http://www.d-mueller.de/blog/cross-domain-ajax-guide/
 https://jvaneyck.wordpress.com/2014/01/07/cross-domain-requests-in-javascript/
 https://github.com/jovaneyck/CrossDomainRequestsInJavascript

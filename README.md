@@ -1,6 +1,6 @@
 #ATM / Branch Locator#
-*Lauren Kroner 2015*
 ============
+*Lauren Kroner 2015*
 
 Node.js/Express application that uses and Maps API to help find ATM/Branch information given a speciic location.
 

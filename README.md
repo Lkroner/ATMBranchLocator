@@ -28,13 +28,13 @@ In command line:
 3. Details page:
 	- Display name and full set of details for a selected ATM or branch. (X)
 
-##STRETCH GOALS/TODOS##
+##Stretch Goals/ Todos##
 ============
 
 1. Implement Cross-Origin
 2. Deploy
 
-##Resource##
+##Resources##
 ============
 
 * http://stackoverflow.com/questions/14061644/jquery-ajax-post-request-with-node-js-and-express
@@ -43,12 +43,13 @@ In command line:
 * https://jvaneyck.wordpress.com/2014/01/07/cross-domain-requests-in-javascript/
 * https://github.com/jovaneyck/CrossDomainRequestsInJavascript
 
-##If I would have more time##
+##Given more time...##
 ============
 
+- Tighten up MVC pattern.
 - Add icons and styling to map and markers.
 - Close out info windows onclick.
-- Responsive page.
+- Responsive web page.
 
 ##Retrospective##
 ============

@@ -106,6 +106,7 @@ Locator.Controller = function(views) {
 	      var marker = new google.maps.Marker({
 	      	map: map,
 	      	position: latlng,
+	      	icon: '../images/chase_logo_small.png',
 	      	title: branch.label,
 	      	infowindow: myInfowindow
 	      });

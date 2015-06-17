@@ -1,10 +1,19 @@
-#ATM / Branch Locator#
+**#ATM / Branch Locator#**
 *Lauren Kroner 2015*
 ============
 
 Node.js/Express application that uses and Maps API to help find ATM/Branch information given a speciic location.
 
+##To Run##
+============
 
+**Reqiurements**: Node, Command Line
+
+In command line:
+
+1. Clone to local from:
+2. *Npm install* in root folder.
+3. *Node app.js* in root folder.
 
 ##MVP##
 ============
@@ -22,7 +31,7 @@ Node.js/Express application that uses and Maps API to help find ATM/Branch infor
 ============
 
 1. Implement Cross-Origin
-2. 
+2. Deploy
 
 ##Resource##
 ============
@@ -36,9 +45,8 @@ https://github.com/jovaneyck/CrossDomainRequestsInJavascript
 ============
 
 - Add icons and styling to map and markers.
-- Close out info windows onclick
-- Detect browser, Add alert to open in Safari not Chrome
-- 
+- Close out info windows onclick.
+- Responsive page.
 
 ##Retrospective##
 ============

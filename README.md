@@ -1,4 +1,4 @@
-**#ATM / Branch Locator#**
+#ATM / Branch Locator#
 *Lauren Kroner 2015*
 ============
 

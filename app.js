@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+var ENV = require('dotenv').load();
 
 app.use(express.static('public'));
 

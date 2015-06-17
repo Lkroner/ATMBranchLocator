@@ -2,7 +2,7 @@
 ============
 *Lauren Kroner 2015*
 
-Node.js/Express application that uses and Maps API to help find ATM/Branch information given a speciic location.
+Node.js/Express application that uses Google Maps API to help find ATM/Branch information when given a speciic location.
 
 ##To Run##
 ============
@@ -11,7 +11,7 @@ Node.js/Express application that uses and Maps API to help find ATM/Branch infor
 
 In command line:
 
-1. Clone to local from:
+1. Clone to local from: git@github.com:Lkroner/ATMBranchLocator.git
 2. *Npm install* in root folder.
 3. *Node app.js* in root folder.
 4. Navigate to http://localhost:3000 in **Safari** browser, to avoid Cross-Domain error.
@@ -37,11 +37,11 @@ In command line:
 ##Resource##
 ============
 
-http://stackoverflow.com/questions/14061644/jquery-ajax-post-request-with-node-js-and-express
-https://developers.google.com/maps/documentation/javascript/tutorial
-http://www.d-mueller.de/blog/cross-domain-ajax-guide/
-https://jvaneyck.wordpress.com/2014/01/07/cross-domain-requests-in-javascript/
-https://github.com/jovaneyck/CrossDomainRequestsInJavascript
+* http://stackoverflow.com/questions/14061644/jquery-ajax-post-request-with-node-js-and-express
+* https://developers.google.com/maps/documentation/javascript/tutorial
+* http://www.d-mueller.de/blog/cross-domain-ajax-guide/
+* https://jvaneyck.wordpress.com/2014/01/07/cross-domain-requests-in-javascript/
+* https://github.com/jovaneyck/CrossDomainRequestsInJavascript
 
 ##If I would have more time##
 ============

@@ -61,6 +61,6 @@ I learned a quite a bit from this error and spiked on a bunch of different metho
 
 *Methods explored:*
 
-- Server-Side Proxy: This was the most promising method as this technique does not require you to alter any existing server-side code. It does require having a server-side proxy server that resides in the same domain as the Javascript code running in the browser. I've left this method commented out so you can see how I set this up.
-- JSONP: This method worked but I got an error JSON back from your endpoint, so I'm guessing you've found a way to block this method.
-- CORS: Without access to the server I would be hitting, could not implement.
+- *Server-Side Proxy*: This was the most promising method as this technique does not require you to alter any existing server-side code. It does require having a server-side proxy server that resides in the same domain as the Javascript code running in the browser. I've left this method commented out so you can see how I set this up.
+- *JSONP*: This method worked but I got an error JSON back from your endpoint, so I'm guessing you've found a way to block this method.
+- *CORS*: Without access to the server I would be hitting, could not implement.
